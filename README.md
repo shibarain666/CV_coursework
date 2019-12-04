@@ -1,6 +1,6 @@
 # Computer Vision and Image Processing coursework
 ### Introduction
-*Some of my school coursework about CV and IP
+*Some of my school coursework about CV and IP  
 *Practicing git  
 
 ### Environment
